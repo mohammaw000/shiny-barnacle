@@ -1,5 +1,5 @@
 # shiny-barnacle
-![alt text][logo] (http://spongebobia.com/spongebob-captures/content/episodes/galleries/052b%20-%20Mermaid%20Man%20and%20Barnacle%20Boy%20V/052b%20-%20Mermaid%20Man%20and%20Barnacle%20Boy%20V%20(068).jpg)
+![alt text](http://spongebobia.com/spongebob-captures/content/episodes/galleries/052b%20-%20Mermaid%20Man%20and%20Barnacle%20Boy%20V/052b%20-%20Mermaid%20Man%20and%20Barnacle%20Boy%20V%20(068).jpg)
 
 
 Hi
