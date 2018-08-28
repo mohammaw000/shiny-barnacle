@@ -10,3 +10,8 @@ Hi
 
 
 [Syllabus](https://github.com/mohammaw000/shiny-barnacle/blob/master/Course%20Description.md)
+
+
+
+
+[What is robotics? What is a robot? (https://github.com/mohammaw000/shiny-barnacle/blob/master/What%20is%20robotics%3F%20What%20is%20a%20robot%3F.md)
