@@ -21,3 +21,7 @@ Hi, its Barnacle Boy
 
 
 [People of Interest](https://github.com/mohammaw000/shiny-barnacle/blob/master/People%20of%20Interest.md)
+
+
+
+[Lightbot](https://github.com/mohammaw000/shiny-barnacle/blob/master/Lightbot.md)
