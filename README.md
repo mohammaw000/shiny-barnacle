@@ -11,7 +11,7 @@
 
 
 
-[Syllabus](https://github.com/mohammaw000/shiny-barnacle/blob/master/Course%20Description.md)
+[Syllabus](https://github.com/mohammaw000/shiny-barnacle/blob/master/Syllabus.md)
 
 
 
