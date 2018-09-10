@@ -6,4 +6,4 @@ Programming is the set of instructions that are given to a computer to be execut
 - <b>Function</b>: A function is a group of statements or commands that is grouped together in order to perform a certain task. It makes programming faster and more efficiant so that you won't have to keep writing in the same statements each time if you need to repeat.
 - <b>Conditional</b>: A conditional is somewhat like an "if-then" statement. For example, when ATMs are programmed, they make it so that IF someone withdrawls THEN the ATM says "thank you and take your money!" It is basically saying the statement is defind true unless a true hypothesis tells it otherwise.
 
-![alt text](https://cs.harvard.edu/malan/scratch/ifmousedown.gif)          ![alt text](https://cs.harvard.edu/malan/scratch/ifmousedownelse.gif)
+             ![alt text](https://cs.harvard.edu/malan/scratch/ifmousedown.gif)          ![alt text](https://cs.harvard.edu/malan/scratch/ifmousedownelse.gif)
